@@ -8,8 +8,8 @@ This is my personal portfolio project intend to showcase my latest work to the p
 
 ## Technologies:
 
-*HTML5
-*CSS3
-*JavaScript
-*A bit of PHP
+* HTML5
+* CSS3
+* JavaScript
+* A bit of PHP
 
