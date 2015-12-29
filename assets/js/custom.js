@@ -10,7 +10,6 @@
 	});
 
 	$(document).ready(function() {
-
 		/* ---------------------------------------------- /*
 		 * Smooth scroll / Scroll To Top
 		/* ---------------------------------------------- */
@@ -31,8 +30,19 @@
 				$('.scroll-up').fadeOut();
 			}
 		});
-
-		
+	/* ----------------------------------------------- /*
+	* Nice Scroll
+	/* ------------------------------------------------- */
+		$("html").niceScroll({
+			scrollspeed: 60,
+			mousescrollstep: 40,
+			cursorwidth: 15,
+			cursorborder: 0,
+			cursorcolor: '#303030',
+			cursorborderradius: 6,
+			autohidemode: false,
+			horizrailenabled: false
+		});
 		/* ---------------------------------------------- /*
 		 * Navbar
 		/* ---------------------------------------------- */
