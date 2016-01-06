@@ -1,0 +1,12 @@
+/* AUTHOR */
+	Hasan Ahmed
+	Contact: hasan [at] hasanme.com
+	Twitter: @hasan_rt
+	From: London, UK
+
+/* SITE */
+	Last update:2016/01/06
+	Language: English
+	Standards: HTML5, CSS3
+	Components: Modernizr, jQuery, etc.
+	IDE: Sublime Text, FileZilla
